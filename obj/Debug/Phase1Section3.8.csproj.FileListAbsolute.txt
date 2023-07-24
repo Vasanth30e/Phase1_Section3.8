@@ -1,0 +1,8 @@
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\bin\Debug\Phase1Section3.8.exe.config
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\bin\Debug\Phase1Section3.8.exe
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\bin\Debug\Phase1Section3.8.pdb
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.csproj.AssemblyReference.cache
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.csproj.SuggestedBindingRedirects.cache
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.csproj.CoreCompileInputs.cache
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.exe
+D:\Training\Assisted Projects\Pratice Projects\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.pdb
